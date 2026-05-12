@@ -227,6 +227,10 @@ Credit_Card_Fraud_Detection.ipynb
 
 # 📚 Dataset Information
 
+Dataset used for this project:
+
+🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Dataset Features
 
 - Time
@@ -280,7 +284,7 @@ Fraud Prediction
 
 # 👨‍💻 Author
 
-## Dilshan Nethmin
+## Dilshan Nethmin Wijayarathne
 
 💡 Machine Learning Enthusiast  
 💻 Full Stack Developer  
