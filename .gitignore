@@ -1,9 +1,4 @@
 
-x_test.pkl
-x_train.pkl
-y_test.pkl
-y_train.pkl
 best_random_forest_model.pkl
-train_test_data
 models
 Sample_data_set
